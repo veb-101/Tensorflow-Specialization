@@ -2,7 +2,7 @@
 
 ________
 
-| week | Name                                                           | Jupyter Noteook                                                                                                                                                                                                                     |
+| week | Name                                                           | Jupyter Notebook                                                                                                                                                                                                                    |
 | ---- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Excercise notebook - Sequences and Prediction                  | [link](https://nbviewer.jupyter.org/github/veb-101/Tensorflow-Speicialization/blob/master/Course%204%20-%20Sequences%2C%20Time%20series%2C%20Prediction/week%201%20-%20Sequences%20and%20Prediction/Exercise_Question.ipynb)        |
 |      | Lesson 1 - Common scenarios for time series                    | [link](https://nbviewer.jupyter.org/github/veb-101/Tensorflow-Speicialization/blob/master/Course%204%20-%20Sequences%2C%20Time%20series%2C%20Prediction/week%201%20-%20Sequences%20and%20Prediction/Lesson_1_statistical.ipynb)     |

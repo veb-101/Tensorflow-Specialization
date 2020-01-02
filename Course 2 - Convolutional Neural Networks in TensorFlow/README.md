@@ -2,7 +2,7 @@
 
 ________
 
-| week | Name                                            | Jupyter Noteook                                                                                                                                                                                                                                |
+| week | Name                                            | Jupyter Notebook                                                                                                                                                                                                                               |
 | ---- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Excercise notebook - Exploring a larger dataset | [link](https://nbviewer.jupyter.org/github/veb-101/Tensorflow-Speicialization/blob/master/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/week%201%20-%20Exploring%20a%20Larger%20Dataset/Exercise_Question.ipynb)        |
 |      | Cats Vs Dogs Tutorial notebook                  | [link](https://nbviewer.jupyter.org/github/veb-101/Tensorflow-Speicialization/blob/master/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/week%201%20-%20Exploring%20a%20Larger%20Dataset/Week_1_1_Cats%26Dogs_tut.ipynb) |

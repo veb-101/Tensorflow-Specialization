@@ -2,7 +2,7 @@
 
 ________
 
-| week | Name                                                      | Jupyter Noteook                                                                                                                                                                                                     |
+| week | Name                                                      | Jupyter Notebook                                                                                                                                                                                                    |
 | ---- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Excericse notebook - Sentiment in text                    | [link](https://nbviewer.jupyter.org/github/veb-101/Tensorflow-Speicialization/blob/master/Course%203%20-%20NLP%20in%20TensorFlow/week%201%20-%20Sentiment%20in%20text/Exercise_question.ipynb)                      |
 |      | practice                                                  | [link](https://nbviewer.jupyter.org/github/veb-101/Tensorflow-Speicialization/blob/master/Course%203%20-%20NLP%20in%20TensorFlow/week%201%20-%20Sentiment%20in%20text/practice.ipynb)                               |
