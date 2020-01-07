@@ -1,0 +1,46 @@
+<!-- https://codingthesmartway.com/async-programming-with-javascript-callbacks-promises-and-async-await/ -->
+<html>
+
+<head></head>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+<script lang="js">
+    async function doTraining(model) {
+        const history =
+            await model.fit(xs, ys, {
+                epochs: 100,
+                callbacks: {
+                    onEpochEnd: async (epoch, logs) => {
+                        console.log("Epoch:" +
+                            epoch +
+                            " Loss:" +
+                            logs.loss);
+
+                    }
+                }
+            });
+        console.log("Done Trainig you can now predict");
+    }
+    const model = tf.sequential();
+    model.add(tf.layers.dense({
+        units: 1,
+        inputShape: [1]
+    }));
+    model.compile({
+        loss: 'meanSquaredError',
+        optimizer: 'sgd'
+    });
+    model.summary();
+    const xs = tf.tensor2d([-1.0, 0.0, 1.0, 2.0, 3.0, 4.0], [6, 1]);
+    const ys = tf.tensor2d([-3.0, -1.0, 2.0, 3.0, 5.0, 7.0], [6, 1]);
+    doTraining(model).then(() => {
+        alert(model.predict(tf.tensor2d([10], [1, 1])));
+    });
+    console.log("Some text");
+    console.log(tf.getBackend());
+</script>
+
+<body>
+    <h1>First HTML Page</h1>
+</body>
+
+</html>
