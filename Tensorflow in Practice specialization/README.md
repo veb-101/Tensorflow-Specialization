@@ -2,7 +2,7 @@
 
 __________________
 
-* Course provided at [Coursera]([cour](https://www.coursera.org/specializations/tensorflow-in-practice?)) as part of [deeplearning.ai](deeplearning.ai).
+* Course provided at [Coursera](https://www.coursera.org/specializations/tensorflow-in-practice?) as part of [deeplearning.ai](https://www.deeplearning.ai/).
 * All materials added here are for my own learning purpose.
 * Do not use this repository as means of copy-pasting answers, take your time in completing the quiz and notebooks on your own.
 * Concepts taught are pretty well.
